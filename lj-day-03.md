@@ -1,7 +1,4 @@
-#LJ code 201 - day 1  
+#LJ code 201 - day 3
+Today we learned arrays, loops, if, if else, and else statements.we also learned more about git in the terminal and editing git repos. i am happy to say that by day 3 i am comfortably navigating the terminal, using html and css, and have the hang of md... but javascript proves to be difficult for me, i even had to turn in todays lab incomplete cause i ht a wall so hard. it makes me sad cause i want to learn and take notes and follow along best i can, but i am having a hard time retaining some of the information given to me.  
 
-today we learned things that were more in depth to the terminal, general html, general javascript and started css. i feel very comfortable with html and even with css but struggle a little bit with javascript. im struggling trying to grasp javascript syntax, i would like to make it as clean as possible, but it seems everybodys definition of clean is different.  
-
-ive been struggling with remembering things so ive been writing notes on the things i think are hardest, but i dont want the notes to become a crutch. even though its difficult i am enjoying the class a lot and everybody in the class seems really freindly, all the staff here at code fellows is rad and i feel very comfortable when i walk in the building. not something im used to.  
-
-im ready to keep learning and growing! :)
+i hope its better tomorrow and i can catch up on some stuff i missed out on.
