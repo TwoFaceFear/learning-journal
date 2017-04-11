@@ -1,7 +1,7 @@
-#LJ code 201 - day 5  
+#LJ code 201 - day 6  
 
-Today was great during the review section of the lecture, i really enjoyed myself and really enjoy Duncan as a teacher, i often see him and the TAs stay late just to help students.
-the lab today was very challenging and took me quite a while to figure out. i had to have help from several of my peers and several of the TAs. but at the end of the lab i had learned a lot.
-im very greatful to have such a great group of people around me for this journey.  
+Oh boy, where do i start....  
 
-thank you, whoever is reading this, for being so supportive and kind when all of us need it, you help make peoples life better and you should be very proud of yourself.
+today i learned that i need to ask for help more often.... i hit a wall really early in the day because i felt like i had the answer to something correct and i couldnt get it to work, when asking my peers for help they told me i was doing it wrong so i attempted doing it differently, at the end of the day i was still struggling with the same issue and finally got help directly from duncan, who told me the method i was using before was just fine... by this time it was already 6pm and i was really behind. i couldnt finish my lab today and it really frusterated me.  
+
+tomorrow i hope i will be able to fix my mistakes so i dont fall further behind.
