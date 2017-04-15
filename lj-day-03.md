@@ -1,4 +1,4 @@
-#LJ code 201 - day 6  
+#LJ code 201 - day 6 
 
 Oh boy, where do i start....  
 
