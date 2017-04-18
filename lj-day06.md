@@ -1,3 +1,7 @@
-#lj-day-11  
+#LJ code 201 - day 6  
 
-today lecture was kind of relaxed, but the lab (bus-mall) was super intense.... i think it was the first day i saw EVERYBODY in the class struggle.... i dont mean to say it mean or rude ,but finally i dont feel alone... the people that normally get stuff seemed to struggle with this today and it makes me feel more human and less like i wanna rip my hair out. tomorrow i ssume we will be working with chart.js and im super excited, today we went over a lot of html tags about media and some css stuff that was kinda relaxing too cause i have a decent grasp on both of those things... i still struggle with the DOM and event handlers but im gonna keep on plugging away and hopefully ill get it eventually.
+Oh boy, where do i start....  
+
+today i learned that i need to ask for help more often.... i hit a wall really early in the day because i felt like i had the answer to something correct and i couldnt get it to work, when asking my peers for help they told me i was doing it wrong so i attempted doing it differently, at the end of the day i was still struggling with the same issue and finally got help directly from duncan, who told me the method i was using before was just fine... by this time it was already 6pm and i was really behind. i couldnt finish my lab today and it really frusterated me.  
+
+tomorrow i hope i will be able to fix my mistakes so i dont fall further behind.
