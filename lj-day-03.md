@@ -1,7 +1,4 @@
-#LJ code 201 - day 5  
+#LJ code 201 - day 3
+Today we learned arrays, loops, if, if else, and else statements.we also learned more about git in the terminal and editing git repos. i am happy to say that by day 3 i am comfortably navigating the terminal, using html and css, and have the hang of md... but javascript proves to be difficult for me, i even had to turn in todays lab incomplete cause i ht a wall so hard. it makes me sad cause i want to learn and take notes and follow along best i can, but i am having a hard time retaining some of the information given to me.  
 
-Today was great during the review section of the lecture, i really enjoyed myself and really enjoy Duncan as a teacher, i often see him and the TAs stay late just to help students.
-the lab today was very challenging and took me quite a while to figure out. i had to have help from several of my peers and several of the TAs. but at the end of the lab i had learned a lot.
-im very greatful to have such a great group of people around me for this journey.  
-
-thank you, whoever is reading this, for being so supportive and kind when all of us need it, you help make peoples life better and you should be very proud of yourself.
+i hope its better tomorrow and i can catch up on some stuff i missed out on.
